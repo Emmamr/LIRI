@@ -1,4 +1,4 @@
-var keys = require("./keys.js");
+var keys = require("./key.js");
 
 var Twitter = require("twitter");
 
@@ -9,8 +9,8 @@ var request = require("request");
 var fs = require("fs");
 
 var spotify = new Spotify({
-  id: "34e84d93de6a4650815e5420e0361fd3",
-  secret: "5162cd8b5cf940f48702dffe096c2acb"
+  id: "3a91c4aef355433dbe1cd1d5d2d46988",
+  secret: "423a87ececdf4417b19f6fc6de86536d"
 });
 
 
