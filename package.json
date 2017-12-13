@@ -1,16 +1,19 @@
 {
-  "name": "hw-solution",
+  "name": "liri",
   "version": "1.0.0",
-  "description": "",
-  "main": "keys.js",
+  "description": "A bot to feed back tweets, songs, and movies.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmamr/LIRI-Node-App.git"
+  },
+  "author": "Emmanuel Mosqueda R",
   "license": "ISC",
-  "dependencies": {
-    "node-spotify-api": "^1.0.7",
-    "request": "^2.83.0",
-    "twitter": "^1.7.1"
-  }
+  "bugs": {
+    "url": "https://github.com/Emmamr/LIRI-Node-App/issues"
+  },
+  "homepage": "https://github.com/Emmamr/LIRI-Node-App#readme"
 }
